@@ -1,0 +1,15 @@
+\begin{table}[!htb]
+\caption{Hit\&Miss score for hmm\_inference\_Matrix, iter: 10, steps: 500}
+\label{table:}
+\centering
+\begin{tabular}{|l|l|l|l|}
+\hline
+maze &forward & forwardbackward & viterbi \\ \hline
+rect\_3x2\_empty & 52.26 \% & 13.82 \% & 44.48 \% \\ \hline
+rect\_5x4\_empty & 28.52 \% & 3.20 \% & 21.76 \% \\ \hline
+rect\_6x10\_maze & 29.28 \% & 11.06 \% & 18.86 \% \\ \hline
+rect\_6x10\_obstacles & 42.90 \% & 1.74 \% & 36.18 \% \\ \hline
+rect\_8x8\_maze & 68.34 \% & 2.32 \% & 64.78 \% \\ \hline
+
+\end{tabular}
+\end{table}

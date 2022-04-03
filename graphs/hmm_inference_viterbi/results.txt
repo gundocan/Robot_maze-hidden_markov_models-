@@ -1,0 +1,15 @@
+\begin{table}[!htb]
+\caption{Hit\&Miss score for hmm\_inference\_viterbi, iter: 20, steps: 500}
+\label{table:}
+\centering
+\begin{tabular}{|l|l|}
+\hline
+maze &viterbi \\ \hline
+Maze 1 & 48.16 \% \\ \hline
+Maze 2 & 27.41 \% \\ \hline
+Maze 3 & 11.26 \% \\ \hline
+Maze 4 & 26.27 \% \\ \hline
+Maze 5 & 43.60 \% \\ \hline
+
+\end{tabular}
+\end{table}

@@ -1,0 +1,15 @@
+\begin{table}[!htb]
+\caption{Hit\&Time durations for hmm\_inference\_viterbi, iter: 20, steps: 500}
+\label{table:}
+\centering
+\begin{tabular}{|l|l|}
+\hline
+maze &viterbi [ms] \\ \hline
+Maze 1 & 159.2  \\ \hline
+Maze 2 & 1612.3  \\ \hline
+Maze 3 & 14035.1  \\ \hline
+Maze 4 & 6771.2  \\ \hline
+Maze 5 & 6133.3  \\ \hline
+
+\end{tabular}
+\end{table}

@@ -1,0 +1,15 @@
+\begin{table}[!htb]
+\caption{Hit\&Time durations for hmm\_inference\_Matrix, iter: 20, steps: 500}
+\label{table:}
+\centering
+\begin{tabular}{|l|l|l|l|}
+\hline
+maze &forward [ms] & forwardbackward [ms] & viterbi [ms] \\ \hline
+Maze 1 & 31.9  & 57.8  & 43.0  \\ \hline
+Maze 2 & 68.5  & 135.1  & 107.2  \\ \hline
+Maze 3 & 181.8  & 355.4  & 295.3  \\ \hline
+Maze 4 & 129.1  & 259.5  & 209.2  \\ \hline
+Maze 5 & 132.8  & 265.5  & 214.1  \\ \hline
+
+\end{tabular}
+\end{table}
